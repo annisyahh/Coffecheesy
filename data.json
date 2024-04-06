@@ -1,0 +1,122 @@
+{
+    "Kopi Hitam": [
+        {
+            "nama": "Americano",
+            "foto": "https://awsimages.detik.net.id/community/media/visual/2022/11/15/sama-sama-kopi-hitam-apa-bedanya-americano-long-black-dan-kopi-tubruk.jpeg?w=650",
+            "harga": "20.000",
+            "size": "250Ml",
+            "link": "https://shopee.co.id"
+        },
+        {
+            "nama": "Double Espresso",
+            "foto": "https://asset.kompas.com/crops/_SfcFYf71wzjEp-eNLHB_subNpI=/0x0:1000x667/750x500/data/photo/2020/10/05/5f7a1e1a209d9.jpg",
+            "harga": "30.000",
+            "size": "150Ml",
+            "link": "https://shopee.com"
+        },
+        {
+            "nama": "Kopi Toraja",
+            "foto": "https://coday.id/wp-content/uploads/2019/01/artikel_9_kopitoraja_2.jpg",
+            "harga": "32.000",
+            "size": "200Ml",
+            "link": "https://shopee.com"
+        },
+        {
+            "nama": "Kopi Gayo",
+            "foto": "https://id-live-01.slatic.net/p/102528c87fa14d90815bd15c1b78168a.jpg",
+            "harga": "35.000",
+            "size": "150Ml",
+            "link": "https://shopee.com"
+        }
+    ],
+    "Kopi Latte": [
+        {
+            "nama": "Vanilla Latte",
+            "foto": "https://anerdcooks.com/wp-content/uploads/2022/10/iced_vanilla_latte6.jpg",
+            "harga": "35.000",
+            "size": "200Ml",
+            "link": "https://shopee.com"
+        },
+        {
+            "nama": "Caramel Latte",
+            "foto": "https://www.splenda.com/wp-content/uploads/2023/09/iced-salted-caramel-latte-thumb.jpg",
+            "harga": "35.000",
+            "size": "250Ml",
+            "link": "https://shopee.com"
+        },
+        {
+            "nama": "Mocha Latte",
+            "foto": "images/produk/Mocha_Latte.jpg",
+            "harga": "25.000",
+            "size": "150Ml",
+            "link": "https://shopee.com"
+        },
+        {
+            "nama": "Hazelnut Latte",
+            "foto": "https://shottbeverages.com/wp-content/uploads/2020/07/hazelnut_latte-633x641.jpg",
+            "harga": "25.000",
+            "size": "150Ml",
+            "link": "https://shopee.com"
+        }
+    ],
+    "Non-Kopi": [
+        {
+            "nama": "Es Teh Manis",
+            "foto": "https://awsimages.detik.net.id/community/media/visual/2020/05/14/0af32d8b-36b7-4555-8e79-4fd54c98f795.jpeg?w=600&q=90",
+            "harga": "15.000",
+            "size": "200Ml",
+            "link": "https://shopee.com"
+        },
+        {
+            "nama": "Es Blewah",
+            "foto": "https://asset.kompas.com/crops/yeihbqLD6Fhy7kZht8duKJAv20Y=/0x77:1000x744/750x500/data/photo/2022/04/05/624ba0357d78c.jpeg",
+            "harga": "20.000",
+            "size": "200Ml",
+            "link": "https://shopee.com"
+        },
+        {
+            "nama": "Es Campur",
+            "foto": "https://asset.kompas.com/crops/Oz8HbnGfCIUdVNDUvzKZYirFJbE=/0x0:968x646/750x500/data/photo/2024/03/20/65fa68e9d98c8.jpg",
+            "harga": "18.000",
+            "size": "150Ml",
+            "link": "https://shopee.com"
+        },
+        {
+            "nama": "Es Jeruk Kelapa Selasih",
+            "foto": "https://img-global.cpcdn.com/recipes/95c349450e1d3b61/680x482cq70/es-jeruk-kelapa-muda-foto-resep-utama.jpg",
+            "harga": "25.000",
+            "size": "200Ml",
+            "link": "https://shopee.com"
+        }
+    ],
+    "Roti": [
+        {
+            "nama": "Garlic Butter Cream",
+            "foto": "https://awsimages.detik.net.id/community/media/visual/2023/11/27/resep-garlic-bread_43.jpeg?w=1200",
+            "harga": "18.000",
+            "size": "2 Slices",
+            "link": "https://shopee.com"
+        },
+        {
+            "nama": "Roti Gandum",
+            "foto": "images/produk/Roti_Gandum.jpg",
+            "harga": "15.000",
+            "size": "2 Slices",
+            "link": "https://shopee.com"
+        },
+        {
+            "nama": "Croissant",
+            "foto": "https://nibble-images.b-cdn.net/nibble/original_images/croissant_terenak_di_semarang.jpg",
+            "harga": "15.000",
+            "size": "1 pc",
+            "link": "https://shopee.com"
+        },
+        {
+            "nama": "Cromboloni",
+            "foto": "https://whatsnewindonesia.com/sites/default/files/inline-images/croco%20by%20monsieur%20spoon.jpg",
+            "harga": "18.000",
+            "size": "1 pc",
+            "link": "https://shopee.com"
+        }
+    ]
+}
